@@ -10,6 +10,7 @@
 - [Licenses](#licenses)
 - [Contributors](#contributors)
 - [Tests](#tests)
+- [Technologies](#technologies)
 - [Questions](#questions)
 - [Credits](#credits)
 
@@ -21,7 +22,7 @@
 
 ## Description
 
-A client side storage, deployed, application for text editing
+A client side storage, deployed, pwa application for text editing
 
 Link to repository: https://github.com/richinatl/RichM-textEditor/
 
@@ -47,6 +48,10 @@ None, contact me if you wish to do so
 ## Tests
 
 NA
+
+## Techologies
+Webpack, Workbox, JavaScript, IDB
+
 
 ## Questions
 
