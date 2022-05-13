@@ -13,6 +13,12 @@
 - [Questions](#questions)
 - [Credits](#credits)
 
+![textEdDeployed](https://user-images.githubusercontent.com/95508564/168377977-7c4f212e-1c02-44ce-9635-1186a21e9ef9.png)
+
+![textEdOnLocal](https://user-images.githubusercontent.com/95508564/168378028-14e29122-accb-47fa-8f69-617d1490e3da.png)
+
+
+
 ## Description
 
 A client side storage, deployed, application for text editing
