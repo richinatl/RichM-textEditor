@@ -23,6 +23,11 @@
 
 A client side storage, deployed, application for text editing
 
+Link to repository: https://github.com/richinatl/RichM-textEditor/
+
+Link to Deployed: https://murmuring-ocean-58874.herokuapp.com/
+
+
 ## Installation
 
 npm i to install dependencies, then npm build, then npm start:dev
