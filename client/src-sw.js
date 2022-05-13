@@ -36,12 +36,12 @@ registerRoute(
       new CacheableResponsePlugin({
         statuses: [0, 200],
       }),
-      new ExpirationPlugin({
-        maxAgeSeconds,
-        maxEnries,
-      }),
+      // new ExpirationPlugin({
+      //   maxAgeSeconds,
+      //   maxEnries,
+      // }),
     ],
   })
 );
 
-offlineFallback();
+// offlineFallback();
